@@ -20,3 +20,4 @@
 功能演示地址：https://www.bilibili.com/video/BV1qM4y1p7RM/?spm_id_from=333.999.0.0
 
 教学内容近期（今天是8/9）也会在该B站账号更新，感谢三连，比心
+![微信图片_20230727172724](https://github.com/zhushengji/weatherStation_ESP_01_Version/assets/32239713/09ed918a-fec6-4047-942c-112eda4e0949)
